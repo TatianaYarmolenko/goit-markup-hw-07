@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+
+  border: 1px solid #ececec;
+}
+
+.header__logo-text {
+  color: var(--title-text-color);
+}
+
+.header__nav,
+.header__main-nav {
+  display: flex;
+  align-items: center;
+}
+
+.header__site-nav {
+  margin-left: 95px;
+}
+
+.header__auth-nav {
+  margin-left: auto;
+}
