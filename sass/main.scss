@@ -1,6 +1,5 @@
 @import './utils/variables';
 
-@import './base/fonts';
 @import './base/common';
 @import './base/container';
 
@@ -15,10 +14,7 @@
 @import './layouts/_header';
 @import './layouts/auth-nav';
 @import './layouts/_site-nav';
-@import './layouts/section-features';
-@import './layouts/section';
-@import './layouts/_feature';
-@import './layouts/_feature';
+@import './layouts/features';
 @import './layouts/_section';
 @import './layouts/_service';
 @import './layouts/_team';
